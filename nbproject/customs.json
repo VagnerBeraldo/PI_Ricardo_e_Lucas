@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "min": {
+            "context": "input"
+        },
+        "maxleght": {
+            "context": "input"
+        }
+    }
+}

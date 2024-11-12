@@ -1,0 +1,31 @@
+*{
+    margin: 0 auto;
+    font-family: arial;
+}
+
+table{
+    width: 98%;
+    border: 1px solid white;
+}
+
+th{
+    background-color: #003B8F;
+    color: white;
+    text-align: center;
+}
+
+td{
+    border: 1px solid #fff;
+    padding: 5px;
+    text-align: center;
+}
+
+
+caption{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 1.4rem;
+    text-decoration: underline;
+    
+}
